@@ -8,6 +8,7 @@
 .idea/shelf
 .idea/ant.xml
 .idea/dataSources.local.xml
+out
 
 # Log file
 *.log

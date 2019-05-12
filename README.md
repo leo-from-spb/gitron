@@ -3,6 +3,7 @@ Git Graph Layout Algorithm
 
 This visualizer is implemented as a plugin to IntelliJ Idea.
 The minimal version of Idea is 2019.1 (branch 191).
+The Git4Idea plugin should be enabled.
 
 
 ## Name

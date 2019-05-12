@@ -30,6 +30,10 @@
 
   <actions>
     <!-- Add your actions here -->
+    <action id="lb.hydra.idea.HydraAction" class="lb.hydra.idea.HydraAction"
+            text="Git Graph Visualization" description="Hydra">
+      <keyboard-shortcut keymap="$default" first-keystroke="shift ctrl alt G"/>
+    </action>
   </actions>
 
 </idea-plugin>

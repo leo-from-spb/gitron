@@ -1,4 +1,4 @@
-package lb.gitron.model.factual
+package lb.hydra.model.factual
 
 /**
  * Hash string, used in Git.

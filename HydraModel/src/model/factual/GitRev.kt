@@ -1,6 +1,6 @@
 @file:JvmName("GitRevs")
 
-package lb.gitron.model.factual
+package lb.hydra.model.factual
 
 import java.util.*
 

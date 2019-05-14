@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/GitModel/GitModel.iml" filepath="$PROJECT_DIR$/GitModel/GitModel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HydraModel/HydraModel.iml" filepath="$PROJECT_DIR$/HydraModel/HydraModel.iml" />
     </modules>
   </component>
 </project>

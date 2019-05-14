@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/HydraModel/HydraModel.iml" filepath="$PROJECT_DIR$/HydraModel/HydraModel.iml" />
       <module fileurl="file://$PROJECT_DIR$/HydraPlugin/HydraPlugin.iml" filepath="$PROJECT_DIR$/HydraPlugin/HydraPlugin.iml" />
     </modules>
   </component>
